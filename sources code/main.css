@@ -17,8 +17,7 @@ body {
 
 .music-logo {
     width: 50px;
-    height: auto;
-    transition: transform 0.8s ease;
+    transition: transform 0.8s ease; 
 }
 
 .music-logo:hover {
