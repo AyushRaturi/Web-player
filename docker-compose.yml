@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  web-music-player:
+    build:
+      context: .
+    container_name: web-music-player
+    ports:
+      - "6969:80"
+
