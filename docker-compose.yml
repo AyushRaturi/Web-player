@@ -1,3 +1,4 @@
+# Use this docker-compose file to run the web music player
 version: "3.8"
 services:
   web-music-player:
